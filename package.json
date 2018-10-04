@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Robert006/gu-lu/issues"
   },
-  "homepage": "https://github.com/Robert006/gu-lu#readme"
+  "homepage": "https://github.com/Robert006/gu-lu#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.1"
+  }
 }
